@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.hello {
+  padding: 0.5rem;
+  border: 2px;
+}
+b {
+  font-size: larger;
+}
+li {
+  list-style: none;
+}
